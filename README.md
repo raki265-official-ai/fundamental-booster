@@ -45,14 +45,4 @@ After taking input, it displays the information in a clean and formatted way.
 3. Enter your details when asked  
 4. View the output 🎉  
 
----
 
-## 📸 Project Preview
-
-![Input Example](https://via.placeholder.com/600x200?text=User+Input+Example)
-
-![Output Example](https://via.placeholder.com/600x200?text=Formatted+Output)
-
----
-
-## 💡 Example Output
