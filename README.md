@@ -1,4 +1,4 @@
-# 🚀 Fundamental Booster Project
+# ⭐ Fundamental Booster Project
 
 Hey Users 👋  
 Welcome to the **Fundamental Booster Project**!
@@ -21,7 +21,7 @@ After taking input, it displays the information in a clean and formatted way.
 
 ---
 
-## 🎯 Features
+## 📍 Features
 
 ✔️ Takes user input  
 ✔️ Uses variables and data types  
